@@ -37,5 +37,5 @@ HHCTF Challenges I made
   > but in the process the file got split into 9 pieces, he asks you to make it 1 so you can both enjoy a good movie for free
 
 # Scoreboard
+![scoreboard](https://user-images.githubusercontent.com/46655455/207068363-0627369b-56e7-4dc7-b974-2845ab17a96c.png)
 
-![scoreboard](/home/azz/Downloads/scoreboard.png)
